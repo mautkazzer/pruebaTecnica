@@ -1,0 +1,15 @@
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\bin\Debug\net8.0\PruebaT.exe
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\bin\Debug\net8.0\PruebaT.deps.json
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\bin\Debug\net8.0\PruebaT.runtimeconfig.json
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\bin\Debug\net8.0\PruebaT.dll
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\bin\Debug\net8.0\PruebaT.pdb
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\obj\Debug\net8.0\PruebaT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\obj\Debug\net8.0\PruebaT.AssemblyInfoInputs.cache
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\obj\Debug\net8.0\PruebaT.AssemblyInfo.cs
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\obj\Debug\net8.0\PruebaT.csproj.CoreCompileInputs.cache
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\obj\Debug\net8.0\PruebaT.sourcelink.json
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\obj\Debug\net8.0\PruebaT.dll
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\obj\Debug\net8.0\refint\PruebaT.dll
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\obj\Debug\net8.0\PruebaT.pdb
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\obj\Debug\net8.0\PruebaT.genruntimeconfig.cache
+C:\Users\Mauricio\Documents\Mau\Pruebas\pruebaTecnica\Prueba_2\PruebaT\obj\Debug\net8.0\ref\PruebaT.dll
